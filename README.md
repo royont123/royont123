@@ -50,7 +50,7 @@ This portfolio is a living document of my learning journey. I'll be sharing:
 - Earn relevant certifications (Security+, CEH, GCIH)
 
 ### 🌱 Current Projects
-*Coming soon! I'm documenting my learning labs and building my first public projects.*
+- **[PowerShell Security Toolkit](https://github.com/royont123/powershell-security-toolkit)** - Security monitoring, log analysis, and system reporting scripts for IT professionals and security analysts
 
 ### 📫 Let's Connect
 - 💼 Open to: Entry-level cybersecurity opportunities, mentorship, collaboration
